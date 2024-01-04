@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+* 🧬 I focus on applications of Deep Learning & Artificial Intelligence in science: mainly Cheminformatics and Bioinformatics
+* Current Status:
+  * Working at [Deep MedChem](https://deepmedchem.com/)
+  * Previously at [MAMA AI](https://themama.ai/), [Biodviser](https://www.biodviser.com/) and [Bioinformatics at Charles University](https://bioinformatics.cuni.cz/program/index.en.html)
+  * Open for collaboration! (both academic, opensource or commercial)
+* Contact me on [LinkedIn](https://www.linkedin.com/in/miroslavlzicar/)
+
+
 <!--
 **mireklzicar/mireklzicar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
