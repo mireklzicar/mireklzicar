@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Miroslav Lžičař 👋
 
 * 🧬 I focus on applications of Deep Learning & Artificial Intelligence in science: mainly Cheminformatics and Bioinformatics
 * Current Status:
@@ -7,6 +7,7 @@
   * Open for collaboration! (both academic, opensource or commercial)
 * Contact me on [LinkedIn](https://www.linkedin.com/in/miroslavlzicar/)
 
+![Metrics](https://github.com/mireklzicar/mireklzicar/blob/main/metrics.plugin.isocalendar.svg)
 
 <!--
 **mireklzicar/mireklzicar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
