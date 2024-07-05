@@ -1,5 +1,5 @@
 # Miroslav Lžičař 👋
-[![Miroslav Lžičař's LinkedIn](https://img.shields.io/badge/LinkedIn-Miroslav_Lžičař-blue?style=flat-square&logo=linkedin)](https://uk.linkedin.com/in/miroslavlzicar) ![](https://komarev.com/ghpvc/?username=mireklzicar&color=green&style=flat-square&abbreviated=true&base=14543)
+[![Miroslav Lžičař's LinkedIn](https://img.shields.io/badge/LinkedIn-Miroslav_Lžičař-blue?style=flat-square&logo=linkedin)](https://uk.linkedin.com/in/miroslavlzicar) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmireklzicar%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 I'm passionate about applying Deep Learning & Artificial Intelligence to scientific domains, with a focus on Cheminformatics and Bioinformatics. Now I am a CTO, Co-Founder @ [Deep MedChem](https://deepmedchem.com/) and exploring innovative AI applications in drug discovery and medical chemistry.
 
