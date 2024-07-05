@@ -1,7 +1,5 @@
 # Miroslav Lžičař 👋
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="miroslavlzicar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/miroslavlzicar?trk=profile-badge">Miroslav Lžičař</a></div>
-
+[![Miroslav Lžičař's LinkedIn](https://img.shields.io/badge/LinkedIn-Miroslav_Lžičař-blue?style=flat-square&logo=linkedin)](https://uk.linkedin.com/in/miroslavlzicar)
 
 I'm passionate about applying Deep Learning & Artificial Intelligence to scientific domains, with a focus on Cheminformatics and Bioinformatics. Now I am a CTO, Co-Founder @ [Deep MedChem](https://deepmedchem.com/) and exploring innovative AI applications in drug discovery and medical chemistry.
 
