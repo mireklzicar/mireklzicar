@@ -7,7 +7,7 @@ I'm passionate about applying Deep Learning & Artificial Intelligence to scienti
 
 #### 🌟 Featured
 
-* [Chemical Embeddings Search Engine](https://cheese-new.deepmedchem.com/) – Custom implemented vector database with 10B+ isometric embeddings of molecules trained using novel AI approach [CHEESE Docs](https://cheese-docs.themama.ai/) The UI is written in React/Typescript, Vite, Express and Tailwind CSS. [Read paper preprint](https://chemrxiv.org/engage/chemrxiv/article-details/67250915f9980725cfcd1f6f)
+* [Chemical Embeddings Search Engine](https://cheese-new.deepmedchem.com/) – Custom implemented vector database with 10B+ isometric embeddings of molecules trained using novel AI approach. The UI is written in React/Typescript, Vite, Express and Tailwind CSS. [Read paper preprint](https://chemrxiv.org/engage/chemrxiv/article-details/67250915f9980725cfcd1f6f)
 
 #### 🍱 Miscellaneous
 
