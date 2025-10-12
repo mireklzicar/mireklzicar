@@ -12,6 +12,7 @@ I'm passionate about applying Deep Learning & Artificial Intelligence to scienti
 #### 🍱 Miscellaneous
 
 * [DOI Reference Extractor](https://github.com/mireklzicar/doi-reference-extractor) @ [references.mireklzicar.com](https://references.mireklzicar.com/) – Enter a DOI to extract and download all references in your preferred citation format
+* [DNGPU Torch](https://github.com/mireklzicar/dngpu_torch) – Torch implementation of Neural GPU with Diagonal Recurrent Cells
 * [Ketcher Docker](https://github.com/mireklzicar/ketcher-docker) @ [ketcher.mireklzicar.com](https://ketcher.mireklzicar.com/) – A production-ready Vite-based application that embeds the Ketcher chemical structure editor with full iframe communication support.
 * [Issue Duration Labeller – Github Marketplace](https://github.com/marketplace/actions/issue-duration-labeler) – Github Action for automatic labelling of issues based on time taken
 * [LineIndex](https://github.com/mireklzicar/lineindex) – LineIndex provides lightning-fast random access to lines in large text files through efficient indexing. It's a pip package designed to handle very large files where you need to frequently access specific lines without reading the entire file.
