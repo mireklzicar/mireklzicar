@@ -11,8 +11,10 @@ I'm passionate about applying Deep Learning & Artificial Intelligence to scienti
 
 #### 🍱 Miscellaneous
 
+* [Conformer Visualiser](https://cheese-conformers.mireklzicar.com/) – An app for comparison of alignment of conformers
 * [DOI Reference Extractor](https://github.com/mireklzicar/doi-reference-extractor) @ [references.mireklzicar.com](https://references.mireklzicar.com/) – Enter a DOI to extract and download all references in your preferred citation format
-* [DNGPU Torch](https://github.com/mireklzicar/dngpu_torch) – Torch implementation of Neural GPU with Diagonal Recurrent Cells
+* [DNGPU Torch](https://github.com/mireklzicar/dngpu_torch) – Torch implementation of Neural GPU with Diagonal Recurrent Cells (ported from antique version of tensorflow)
+* [Neural Chomsky](https://github.com/mireklzicar/neural_networks_chomsky_hierarchy_torch) – Torch implementation of Neural Networks and the Chomsky Hierarchy (ported from Jax)
 * [Ketcher Docker](https://github.com/mireklzicar/ketcher-docker) @ [ketcher.mireklzicar.com](https://ketcher.mireklzicar.com/) – A production-ready Vite-based application that embeds the Ketcher chemical structure editor with full iframe communication support.
 * [Issue Duration Labeller – Github Marketplace](https://github.com/marketplace/actions/issue-duration-labeler) – Github Action for automatic labelling of issues based on time taken
 * [LineIndex](https://github.com/mireklzicar/lineindex) – LineIndex provides lightning-fast random access to lines in large text files through efficient indexing. It's a pip package designed to handle very large files where you need to frequently access specific lines without reading the entire file.
@@ -21,5 +23,6 @@ I'm passionate about applying Deep Learning & Artificial Intelligence to scienti
 * [Spanning Trees Search](https://github.com/mireklzicar/Spanning-trees-search) – Python project leveraging matrix methods in graph theory to efficiently enumerate spanning trees.
 * [Particle Swarm Optimization](https://github.com/mireklzicar/Particle-Swarm-Optimization) – C# project for visualisation of particle swarm optimization.
 * [Time Resolved X-ray Diffraction Crystallography](https://github.com/mireklzicar/Time-resolved-X-ray-diffraction-crystallography) – Work for ELI Beamlines under research group TREX at Department of Structural Dynamics
+* [mireklzicar.com](https://mireklzicar.com/) – A personal blog written in Astro with plenty of cool features. Initial fork from [Astro Sphere](https://github.com/markhorn-dev/astro-sphere)
 
 ![Metrics](https://github.com/mireklzicar/mireklzicar/blob/main/metrics.plugin.isocalendar.svg)
