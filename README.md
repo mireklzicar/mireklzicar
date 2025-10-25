@@ -5,12 +5,7 @@ I'm passionate about applying Deep Learning & Artificial Intelligence to scienti
 
 ### Public Projects
 
-#### 🌟 Featured
-
 * [Chemical Embeddings Search Engine](https://cheese-new.deepmedchem.com/) – Custom implemented disk-based vector database with 40B+ isometric embeddings of molecules trained using novel AI approach. The UI is written in React/Typescript, Vite, Express and Tailwind CSS. [Read paper preprint](https://chemrxiv.org/engage/chemrxiv/article-details/67250915f9980725cfcd1f6f)
-
-#### 🍱 Miscellaneous
-
 * [Conformer Visualiser](https://cheese-conformers.mireklzicar.com/) – An app for comparison of alignment of conformers
 * [DOI Reference Extractor](https://github.com/mireklzicar/doi-reference-extractor) @ [references.mireklzicar.com](https://references.mireklzicar.com/) – Enter a DOI to extract and download all references in your preferred citation format
 * [DNGPU Torch](https://github.com/mireklzicar/dngpu_torch) – Torch implementation of Neural GPU with Diagonal Recurrent Cells (ported from antique version of tensorflow)
